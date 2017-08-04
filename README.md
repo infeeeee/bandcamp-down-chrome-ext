@@ -26,7 +26,11 @@ Just click on it to download the album
 You can now configure the extension with the notification you want to see.
 
 Also, a new download page allows you to download multiple albums at the same time and retry tracks that failed to download.
-This page offers you really cool options to ease album downloading ! 
+This page offers you really cool options to ease album downloading !
+ 
+ ## Update 0.4.0
+ 
+ You can now download full artist discography and auto start download!
  
  ![Download page](downloadPage.png "Download page")
  
